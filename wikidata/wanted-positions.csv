@@ -1,6 +1,6 @@
 position,title
-Q28015517,president of Guinea
-Q14917303,Prime Minister of Guinea
+Q28015517,President
+Q14917303,Prime Minister
 Q96584311,High Representative of the Head of State
 Q72407126,Minister of State
 Q98824146,Minister of African Cooperation and Integration
@@ -19,12 +19,14 @@ Q106938244,Minister of Information and Communication
 Q109274596,Minister of Infrastructure and Transport
 Q109255195,Minister of International Affairs
 Q98822861,Minister of Investments and Public-Private Partnerships
-Q17110168,Minister of Justice of Guinea
+Q17110168,Minister of Justice
 Q98960158,Minister of Livestock and Animal Production
 Q98822704,Minister of Mines and Geology
 Q98822766,Minister of Posts and Telecoms
+Q114643191,Minister of Pre-University Education and Literacy
 Q98822778,"Minister of Public Service, State Reform and Modernization"
-Q54367251,Minister of Social Affairs of Guinea
+Q54367251,Minister of Social Affairs
+Q114643143,Minister of Technical Education and Vocational Training
 Q98822626,Minister of Territorial Administration and Decentralization
 Q98822719,Minister of Town and Regional Planning
 Q109120626,Minister of Transport
@@ -32,4 +34,5 @@ Q98822750,Minister of Youth
 Q98822620,Minister of the Environment
 Q107225945,Secretary General of Religious Affairs
 Q109186195,Secretary-General of the Government
+Q114643057,President of the National Assembly
 Q108881133,Chief of Staff of the Armed Forces
