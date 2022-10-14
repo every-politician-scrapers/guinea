@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Guinea",
+        "id": "Q1006"
+    },
+    "cabinet": {
+        "id":     "Q113568804",
+        "start":  "2022-08-20",
+        "parent": "Q52898208"
+    },
+    "reference": {
+        "P4656": "https://fr.wikipedia.org/wiki/Gouvernement_Mohamed_B%C3%A9avogui/Bernard_Goumou"
+    },
+    "lang": "fr",
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Guinea"
+    }
+}
