@@ -1,0 +1,263 @@
+{
+  "title": "Yaya Sow",
+  "pageID": 69313239,
+  "categories": [
+    "Living people",
+    "Guinean judges",
+    "Year of birth missing (living people)",
+    "Infrastructure ministers of Guinea",
+    "Transport ministers of Guinea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yaya Sow is a Guinean politician.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yaya Sow"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is Minister of Infrastructure and Transportation in the government led by Mohamed Béavogui since October 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Béavogui"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2021",
+          "template": "orphan"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Yaya Sow"
+          },
+          "nationality": {
+            "text": "Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guinea"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Mohamed Béavogui",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Béavogui"
+              }
+            ]
+          },
+          "president": {
+            "text": "Mamady Doumbouya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mamady Doumbouya"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 October 2021"
+          },
+          "office": {
+            "text": "Minister of Infrastructure and Transportation"
+          },
+          "alma_mater": {
+            "text": "Gamal Abdel Nasser University of Conakry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gamal Abdel Nasser University of Conakry"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "ledjely",
+          "date": "2021-10-26",
+          "title": "TRANSITION : le colonel Mamadi Doumbouya nomme quatre autres ministres",
+          "url": "https://ledjely.com/2021/10/26/transition-le-colonel-mamadi-doumbouya-nomme-quatre-autres-ministres/",
+          "access-date": "2021-10-26",
+          "website": "Ledjely.com",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Guineematin.com",
+          "first": "Alpha",
+          "date": "2021-10-26",
+          "title": "Gouvernement de transition : 4 nouveaux ministres nommés par le colonel Mamadi Doumbouya",
+          "url": "https://guineematin.com/2021/10/26/gouvernement-de-transition-4-nouveaux-ministres-nommes-par-le-colonel-mamadi-doumbouya/",
+          "access-date": "2021-10-26",
+          "website": "Guinée Matin - Les Nouvelles de la Guinée profonde",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Before becoming a minister, he became the Consular Judge at the Tribunal de commerce of Guinea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tribunal de commerce"
+                }
+              ]
+            },
+            {
+              "text": "He worked in numerous government positions including Director of Economic Studies and Commerce at the Guinean Ministry of Commerce before being hired by ECOWAS.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ECOWAS"
+                }
+              ]
+            },
+            {
+              "text": "He started at the Department of Political Economy of ECOWAS in Abuja, Nigeria, and rising through the ranks, became Resident Representative of ECOWAS to the European Union, eventually rising further to become Director of Economic Research at ECOWAS.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ECOWAS"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abuja"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "ECOWAS"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "ECOWAS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He also worked as an advisor for the Guinean private sector in negotiating the African Continental Free Trade Agreement.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "African Continental Free Trade Agreement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was decreed Minister of Infrastructure and Transportation on October 26, 2021."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.inter-reseaux.org/wp-content/uploads/4_cedeao_ape_gds32_integral.pdf",
+          "title": "Entretien avec Yaya Sow. Représentant de la Cedeao à Bruxelles",
+          "date": "September 2005",
+          "access-date": "12 November 2021",
+          "language": "fr",
+          "type": "web",
+          "template": "citation"
+        },
+        {
+          "url": "https://www.oecd.org/swac/events/Atlas%20launch%20bio_EN.pdf",
+          "type": "web",
+          "date": "19 December 2014",
+          "title": "Atlas of the sahara-sahel: Georaphy, Economics and security",
+          "access-date": "12 November 2021",
+          "publisher": "OECD",
+          "template": "citation"
+        },
+        {
+          "url": "https://guineematin.com/",
+          "date": "27 October 2021",
+          "website": "Guinée Matin",
+          "title": "Ministère des Infrastructures et des Transports : qui est Yaya Sow, le nouveau ministre ?",
+          "language": "fr",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-10-26",
+          "title": "Gouvernement de transition : quatre ministres, dont trois femmes, nommés",
+          "url": "https://guineenews.org/gouvernement-de-transition-quatre-ministres-dont-trois-femmes-nommes/",
+          "access-date": "2021-10-26",
+          "website": "Guinéenews",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "Politics",
+            "Guinea"
+          ],
+          "template": "portal"
+        },
+        {
+          "template": "guinea-politician-stub"
+        }
+      ]
+    }
+  ]
+}

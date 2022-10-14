@@ -1,0 +1,86 @@
+{
+  "title": "Diaka Sidibé",
+  "pageID": 71734307,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "21st-century Guinean politicians",
+    "21st-century Guinean women politicians",
+    "Government ministers of Guinea",
+    "Women government ministers of Guinea",
+    "Higher education ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Diaka Sidibé is a Guinean politician.",
+              "formatting": {
+                "bold": [
+                  "Diaka Sidibé"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guinean politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Higher Education, Scientific Research and Innovation"
+          },
+          "termstart": {
+            "text": "26 October 2021"
+          },
+          "president": {
+            "text": "Mamady Doumbouya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mamady Doumbouya"
+              }
+            ]
+          },
+          "image": {
+            "text": "Docteur Diaka Sidibé 2022.jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Why are so many graduates unemployed? Experts probe causes",
+          "url": "https://www.universityworldnews.com/post.php?story=20220202101258504",
+          "access-date": "2022-09-12",
+          "website": "University World News",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guinea-politician-stub"
+        },
+        {
+          "template": "wikicommons"
+        }
+      ]
+    }
+  ]
+}
