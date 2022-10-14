@@ -22,7 +22,12 @@ High Representative of the Head of State,Claude Kory Kondiano,Q59582595,2020-06-
 Minister of State,Kerfalla Yansané,Q19940288,2016-01-12,2018-01-24
 Minister of African Cooperation and Integration,Koutoubou Moustapha Sano,Q55365526,2011,2016
 Minister of African Cooperation and Integration,Amadou Thierno Diallo guinée,Q108510258,2021-03-19,2021-09-05
-Minster of Budget,Ismaël Dioubaté,Q94705904,2018-05-26,2021-09-05
+Minister of Agriculture,Mariama Camara,Q90422307,2017-12-27,2021-01-15
+Minister of Agriculture and Livestock,Roger Patrick Millimono,Q96945598,2021-01-20,2021-09-05
+Minister of Budget,Ismaël Dioubaté,Q94705904,2018-05-26,2021-09-05
+Minister of Budget,Moussa Cissé,Q109378507,2021-10-29,2022-08-20
+Minister of Budget,Lanciné Condé,Q109378535,2022-08-20,
+Minister of Commerce,Mariama Camara,Q90422307,2021-01-27,2021-09-05
 "Minister of Culture, Tourism, and Handcrafts",Bill de Sam,Q109413676,2021-11-04,
 Minister of Defence,Arafan Camara,Q2859422,2007-03-28,2008-05-20
 Minister of Defence,Almamy Kabélé Camara,Q114643672,2008-05-19,2008-12-24
@@ -31,6 +36,11 @@ Minister of Defence,Abdoul Kabèlè Camara,Q6344570,2010-12-24,2015-12-26
 Minister of Defence,Mohamed Diané,Q97365655,2015-12-26,2021-09-05
 Minister of Defence,Aboubacar Sidiki Camara,Q109044655,2021-10-21,
 Minister of Economy and Finance,Ibrahima Kassory Fofana,Q5984807,1997,2000
+Minister of Economy and Finance,Lanciné Condé,Q109378535,2021-10-29,2022-08-20
+Minister of Economy and Finance,Moussa Cissé,Q109378507,2022-08-20,
+Minister of the Environment,Aissatou Baldé,Q106882714,2017-02,2018-05
+Minister of the Environment,Oyé Lamah Guilavogui,Q94612893,2020-06-03,2021-09-05
+Minister of the Environment,Louopou Lamah,Q109044739,2021-10-21,
 Minister of Finance,Ibrahima Kassory Fofana,Q5984807,1998,2000
 Minister of Finance,Cheick Amadou Camara,Q106961880,2000,2004
 Minister of Finance,Madikaba Camara,Q106961788,2004,2007
@@ -40,8 +50,8 @@ Minister of Finance,Mamadou Sande,Q106961574,2009,2010-02-15
 Minister of Finance,Kerfalla Yansané,Q19940288,2010-02-15,2014-01-15
 Minister of Finance,Mohamed Diaré,Q106961450,2014-01-15,2016-01-04
 Minister of Finance,Malado Kaba,Q29956892,2016-01-04,2018-05-28
-Minister of Finance,Mamadi Camara,Q64590528,2018-05-29,
-"Minister of Fisheries, Aquaculture and the Maritime Economy",Frédéric Loua,Q90159096,2018-05-26,
+Minister of Finance,Mamadi Camara,Q64590528,2018-05-29,2021-09-05
+"Minister of Fisheries, Aquaculture and the Maritime Economy",Frédéric Loua,Q90159096,2018-05-26,2021-09-05
 "Minister of Fisheries, Aquaculture and the Maritime Economy",Charlotte Daffé,Q109252096,2021-10-25,
 Minister of Foreign Affairs,Zainoul Abidine Sanoussi,Q108426402,1999,2000
 Minister of Foreign Affairs,Mahawa Bangoura,Q42814067,2000,2002
@@ -65,20 +75,30 @@ Minister of Health,Édouard Nyankoye Lamah,Q93429790,2018-05-17,2019-11-11
 Minister of Health,Remy Lamah,Q18394003,2019-11-11,2021-05-09
 Minister of Health,Mamadou Péthè Diallo,Q109252097,2021-10-25,
 "Minister of Higher Education, Scientific Research and Innovation",Diaka Sidibe,Q109275607,2021-10-26,
-Minister of Hydrocarbons,Diakaria Koulibaly,Q97167078,2018-05-26,
-Minister of Information and Communication,Rose Pola Pricemou,Q109275627,2021-10-26,
+Minister of Hydrocarbons,Diakaria Koulibaly,Q97167078,2018-05-26,2021-09-05
+Minister of Hydrocarbons,Ibrahima Abé Sylla,Q109439926,2021-11-04,2022-08-20
+Minister of Hydrocarbons,Aly Seydouba Soumah,Q113654106,2022-08-20,
+Minister of Industry and SMEs of Guinea,Rose Pola Pricemou,Q109275627,2022-08-20,
+Minister of Information and Communication,Rose Pola Pricemou,Q109275627,2021-10-26,2022-08-20
+Minister of Information and Communication,Aminata Kaba,Q109412260,2022-08-20,
 Minister of Infrastructure and Transport,Yaya Sow,Q109274627,2021-10-26,
 Minister of Investments and Public-Private Partnerships,Ibrahima Kassory Fofana,Q5984807,2014,2018
 Minister of Investments and Public-Private Partnerships,Gabriel Curtis,Q96481975,2018-05,2021-09-05
-Minister of Justice,Bachir Touré,Q54366560,2008-06-19,
-Minister of Livestock and Animal Production,Roger Patrick Millimono,Q96945598,2020-06,
+Minister of Justice,Bachir Touré,Q54366560,2008-06-19,2008-12
+Minister of Justice,Fatoumata Yarie Soumah,Q109378682,2021-11-02,2021-12-31
+Minister of Justice,Moriba Alain Koné,Q110340245,2021-12-31,2022-07-08
+Minister of Justice,Alphonse Charles Wright,Q112977549,2022-07-08,
+Minister of Labour and Public Service,Julien Yombouno,Q109252099,2021-10-25,
+Minister of Livestock and Animal Production,Roger Patrick Millimono,Q96945598,2020-06-03,2021-01-20
 Minister of Livestock and Animal Production,Mamoudou Nagnalen Barry,Q109375616,2021-11-02,
 Minister of Mines and Geology,Mohamed Lamine Fofana,Q90561086,2010-12-24,2014-01-15
 Minister of Mines and Geology,Kerfalla Yansané,Q19940288,2014-01-20,2015-12-26
 Minister of Mines and Geology,Abdoulaye Magassouba,Q60965090,2016-01-07,2021-09-05
 Minister of Mines and Geology,Moussa Magassouba,Q109512687,2021-11-04,
 Minister of Posts and Telecoms,Saïd Oumar Koulibaly,Q96475179,2021-07,2021-09-05
-Minister of Posts and Telecoms,Aminata Kaba,Q109412260,2021-11-04,
+Minister of Posts and Telecoms,Aminata Kaba,Q109412260,2021-11-04,2022-08-20
+Minister of Posts and Telecoms,Ousmane Diallo,Q3358505,2022-08-19,
+Minister of Pre-University Education and Literacy,Ibrahima Kourouma,Q26214525,2010-12-24,2017-02-27
 Minister of Pre-University Education and Literacy,Guillaume Hawing,Q109296978,2021-10-27,
 Minister of Pre-University Education and Literacy,Guillaume Hawing,Q109296978,2021-10-27,2022-08-20
 Minister of Security and Civil Protection,Bachir Diallo,Q109044662,2021-10-21,
@@ -87,15 +107,15 @@ Minister of Technical Education and Vocational Training,Alpha Bacar Barry,Q10929
 Minister of Territorial Administration and Decentralization,Alhassane Condé,Q109300701,2010,2015
 Minister of Territorial Administration and Decentralization,Bouréma Condé,Q78327479,2015-02-24,2021-09-05
 Minister of Territorial Administration and Decentralization,Mory Condé,Q109296985,2021-10-27,
-Minister of Town and Regional Planning,Ibrahima Kourouma,Q26214525,2018-05-17,
+Minister of Town and Regional Planning,Ibrahima Kourouma,Q26214525,2017-08-23,2021-09-05
+Minister of Town and Regional Planning,Ousmane Diallo,Q3358505,2021-11-04,2022-08-19
 Minister of Town and Regional Planning,Ibrahima Sory Bangoura,Q113674890,2022-08-20,
 Minister of Transport,Mohamed Keita,Q20560913,2021-01-27,2021-09-05
-Minister of Youth,Aissatou Baldé,Q106882714,2021-02,
+"Minister for the Promotion of Women, Children and Vulnerable Persons",Aicha Nénette Conté,Q109275632,2021-10-26,
+Minister of Youth,Aissatou Baldé,Q106882714,2021-02,2021-09-05
 Minister of Youth,Bea Diallo,Q2456485,2021-11-02,
-Minister of the Environment,Aissatou Baldé,Q106882714,2017-02,2018-05
-Minister of the Environment,Oyé Lamah Guilavogui,Q94612893,2020-06-03,2021-09-05
-Minister of the Environment,Louopou Lamah,Q109044739,2021-10-21,2022-08-20
 Secretary General of Religious Affairs,Koutoubou Moustapha Sano,Q55365526,2009,2010
+Secretary General of Religious Affairs,Karamoko Diawara,Q111209644,2021-11-04,
 Secretary-General of the Government,Abdourahmane Sikhé Camara,Q109044723,2021-10-21,
 President of the National Assembly,Boubacar Biro Diallo,Q93271851,1995,2002
 President of the National Assembly,Aboubacar Somparé,Q323086,2002,2008
