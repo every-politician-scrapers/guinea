@@ -1,5 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100469635,Ousmane Doré,male,1957,9,,,,
+Q102264364,Ibrahima Khalil Kaba,male,1970-01-01,11,,,Dr Ibrahim Khalil KABA MAEGE.jpg,Ibrahima Khalil Kaba
 Q106882714,Aissatou Baldé,female,1971,9,,,Aissatou Baldé 03.jpg,
 Q106961450,Mohamed Diaré,male,,,,,,
 Q106961574,Mamadou Sande,male,,,,,,
@@ -9,6 +10,7 @@ Q106961880,Cheick Amadou Camara,male,,,,,,
 Q107022236,Mandjou Kaké,male,,,,,,
 Q107049865,Amara Camara,male,,,,,"President Reuven Rivlin receives the credentials of new ambassadors at an official ceremony held at the Beit HaNassi, August 2017 (5576).jpg",
 Q107343007,Jean Delacroix Camara,male,1946-02-12,11,,,Photo de Jean Delacroix Camara.jpg,
+Q108418519,Mamadi Doumbouya,male,1980-03-04,11,,,Mamadi Doumbouya 2022.jpg,Mamady Doumbouya
 Q108426402,Zainoul Abidine Sanoussi,male,,,,,,
 Q108426403,Amadou Lamarana Bah,male,,,,,,
 Q108498017,M'Mahawa Sylla,female,,,,,,
@@ -25,17 +27,22 @@ Q109252096,Charlotte Daffé,female,,,,,,
 Q109252097,Mamadou Péthè Diallo,male,,,,,Pont de Kagbélén.jpg,Mamadou Pathé Diallo
 Q109252098,Mory Sandan Kouyaté,male,,,,,FOREIGN MINISTER MORISSANDA KOUYATÉ (cropped).jpg,Morissanda Kouyaté
 Q109274627,Yaya Sow,male,,,,,,Yaya Sow
-Q109275607,Diaka SIDIBE,female,,,,,Docteur Diaka Sidibé 2022.jpg,Diaka Sidibé
+Q109275607,Diaka Sidibe,female,,,,,Docteur Diaka Sidibé 2022.jpg,Diaka Sidibé
 Q109275627,Rose Pola Pricemou,female,,,,,Rose Pola Pricemou.jpg,
+Q109296974,Alpha Bacar Barry,male,1980,9,,,,
+Q109296978,Guillaume Hawing,male,,,,,Guillaume Hawing.jpg,
 Q109296984,Bernard Goumou,male,1960-09-08,11,,,Bernard Goumou.jpg,Bernard Goumou
 Q109296985,Mory Condé,male,,,,,Mory Condé.jpg,
 Q109300701,Alhassane Condé,male,,,,,,
+Q109375616,Mamoudou Nagnalen Barry,male,,,,,,
 Q109412260,Aminata Kaba,female,,,,,,
 Q109413676,Bill de Sam,male,,,,,Alpha Soumah.jpg,
 Q109512687,Moussa Magassouba,male,,,,,SMD MMG MATD sensibilisation 7.jpg,
 Q112061372,Naman Keita,,,,,,,
 Q113674890,Ibrahima Sory Bangoura,male,,,,,,
+Q114643672,Almamy Kabélé Camara,,,,,,,
 Q1343963,Lansana Kouyaté,male,1950-07-15,11,,,Kouyate crop 2006 06 07 guinea 600.jpg,Lansana Kouyaté
+Q1373451,Eugène Camara,male,1942-01-21,11,2019-11-22,11,,Eugène Camara
 Q1451112,François Lonseny Fall,male,1949,9,,,"Francois Louceny Fall, representative of the UNSG in Central Africa, speaks in Yaounde, Jan. 22, 2020 (cropped).jpg",François Lonseny Fall
 Q1801573,Lamine Sidimé,male,1944,9,,,,Lamine Sidimé
 Q18394003,Remy Lamah,male,,,,,,Remy Lamah
@@ -43,14 +50,24 @@ Q19940288,Kerfalla Yansané,male,1942,9,,,Annual Plenary Meeting of the Voluntar
 Q202582,Lansana Conté,male,1934-11-30,11,2008-12-22,11,Lansana Conte 27 July 2001a.jpg,Lansana Conté
 Q20560913,Mohamed Keita,male,,,,,,
 Q21855433,Mamady Youla,male,1961-11-05,11,,,"20 March 2017 - Ms Arancha González meets H.E. Mr. Mamady Youla, Prime Minister of Guinea (cropped).jpg",Mamady Youla
+Q2456485,Bea Diallo,male,1971-07-07,11,,,Lansana Bea Diallo.jpg,
+Q26214525,Ibrahima Kourouma,male,1966-12-15,11,,,Ibrahima KOUROUMA.jpg,
+Q2643744,Alexandre Cécé Loua,male,1956-01-01,11,,,,Alexandre Cécé Loua
+Q2859422,Arafan Camara,male,1948,9,2008-01-06,11,,Arafan Camara
+Q29292695,Makalé Camara,female,1956,9,,,,Makalé Camara
 Q29956892,Malado Kaba,female,1971-03,10,,,Malado Kaba.jpg,Malado Kaba
 Q314271,Moussa Dadis Camara,male,1964-12-29,11,,,Dadis Camara portrait.JPG,Moussa Dadis Camara
+Q323086,Aboubacar Somparé,male,1944-08-31,11,2017-11-02,11,,Aboubacar Somparé
 Q324899,Sidya Touré,male,1945,9,,,Sidya Touré.jpg,Sidya Touré
+Q3284885,Mamady Condé,male,1952,9,,,,Mamady Condé
 Q401526,Ahmed Tidiane Souaré,male,1951,9,,,,Ahmed Tidiane Souaré
+Q42814067,Mahawa Bangoura,female,1927-03-13,11,,,,Mahawa Bangoura
 Q4413,Alpha Condé,male,1938-03-04,11,,,Alpha Conde - World Economic Forum Annual Meeting 2012.jpg,Alpha Condé
+Q4849023,Bakary Fofana,male,1950,9,,,,Bakary Fofana (politician)
 Q527792,Jean-Marie Doré,male,1938-06-12,11,2016-01-29,11,,Jean-Marie Doré
 Q5285288,Djené Kaba Condé,female,,8,,,Djene Kaba Conde.jpg,Djene Kaba Condé
 Q54366560,Bachir Touré,male,,,,,,
+Q55098131,Mamadi Touré,male,1952-12-11,11,,,,Mamadi Touré
 Q55365526,Koutoubou Moustapha Sano,male,1966-04-10,11,,,Koutoubou Sano.jpg,Koutoub Moustapha Sano
 Q57875,Mohamed Said Fofana,male,1952,9,,,,Mohamed Said Fofana
 Q59582595,Claude Kory Kondiano,male,1942,9,2022-09-27,11,,Claude Kory Kondiano
@@ -68,12 +85,15 @@ Q78327479,Bouréma Condé,male,,,,,Bouréma Condé.jpg,
 Q87442540,Nanfadima Magassouba,female,,,,,,Nanfadima Magassouba
 Q90159096,Frédéric Loua,male,,,,,,
 Q90561086,Mohamed Lamine Fofana,male,1949,9,,,Mohamed Lamine Fofana - 2011.jpg,
-Q93429790,Édouard Nyankoye Lamah,male,,,,,,Édouard Niankoye Lamah
+Q93271851,Boubacar Biro Diallo,male,1922-01-01,11,,,,
 Q93429790,Édouard Nyankoye Lamah,male,,,,,,Édouard Niankoye Lamah
 Q94612893,Oyé Lamah Guilavogui,male,,,,,,
 Q94705904,Ismaël Dioubaté,male,,,,,,
+Q96059533,Amadou Damaro Camara,male,,,,,Amadou Damaro Camara.jpg,
 Q96475179,Saïd Oumar Koulibaly,male,1975-09-20,11,,,SAID OUMAR KOULIBALY-GOUVGN.jpg,
 Q96481975,Gabriel Curtis,male,,,,,Gabriel Curtis.jpg,
 Q96945598,Roger Patrick Millimono,male,,,,,,
 Q97167078,Diakaria Koulibaly,male,1976-12-11,11,,,,
+Q97365655,Mohamed Diané,male,,,,,,
+Q98602747,Djénabou Dramé,female,1988,9,,,,
 Q99399482,Oyé Béavogui,male,1992-03-23,11,,,,
