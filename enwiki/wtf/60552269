@@ -1,0 +1,163 @@
+{
+  "title": "Ousmane Diallo",
+  "pageID": 60552269,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "Guinean male sport wrestlers",
+    "Olympic wrestlers of Guinea",
+    "Wrestlers at the 1988 Summer Olympics",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ousmane Diallo (born 1968) is a Guinean wrestler.",
+              "links": [
+                {
+                  "text": "wrestler",
+                  "type": "internal",
+                  "page": "amateur wrestling"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ousmane Diallo"
+                ]
+              }
+            },
+            {
+              "text": "He competed in the men's freestyle 52 kg at the 1988 Summer Olympics.",
+              "links": [
+                {
+                  "text": "men's freestyle 52 kg",
+                  "type": "internal",
+                  "page": "Wrestling at the 1988 Summer Olympics – Men's freestyle 52 kg"
+                },
+                {
+                  "text": "1988 Summer Olympics",
+                  "type": "internal",
+                  "page": "1988 Summer Olympics"
+                }
+              ]
+            },
+            {
+              "text": "He has been the Minister of Town Planning and Housing since November 4, 2021 in the Mohamed Béavogui government."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guinean wrestler",
+          "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1968",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ousmane Diallo"
+          },
+          "nationality": {
+            "text": "Guinean"
+          },
+          "sport": {
+            "text": "Wrestling",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wrestling"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1968 (age 54)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sports-reference.com/olympics/athletes/di/ousmane-diallo-1.html",
+          "archive-url": "https://web.archive.org/web/20200418005929/https://www.sports-reference.com/olympics/athletes/di/ousmane-diallo-1.html",
+          "url-status": "dead",
+          "archive-date": "18 April 2020",
+          "title": "Ousmane Diallo Olympic Results",
+          "access-date": "21 April 2019",
+          "template": "citation",
+          "type": "sports-reference"
+        },
+        {
+          "url": "https://www.jeuneafrique.com/1263072/politique/guinee-dix-choses-a-savoir-sur-ousmane-gaoual-diallo-opposant-a-alpha-conde-devenu-ministre-de-mamadi-doumbouya/",
+          "archive-url": "https://www.jeuneafrique.com/1263072/politique/guinee-dix-choses-a-savoir-sur-ousmane-gaoual-diallo-opposant-a-alpha-conde-devenu-ministre-de-mamadi-doumbouya/",
+          "url-status": "dead",
+          "archive-date": "11 November 2021",
+          "title": "Guinée : dix choses à savoir sur Ousmane Gaoual Diallo, opposant à Alpha Condé devenu ministre de Mamadi Doumbouya",
+          "access-date": "12 November 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "sports links"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "oly"
+          ],
+          "template": "s-sports"
+        },
+        {
+          "template": "gui"
+        },
+        {
+          "before": "Abdoulaye Diallo",
+          "title": "Flagbearer for",
+          "years": "Seoul 1988",
+          "after": "Soryba Diakité",
+          "template": "succession box"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "guinea-wrestling-bio-stub"
+        }
+      ]
+    }
+  ]
+}
