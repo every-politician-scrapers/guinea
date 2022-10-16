@@ -2,6 +2,8 @@ id,name,relationship,relative,relativename
 Q108418519,Mamadi Doumbouya,spouse,Q108762973,Lauriane Darboux
 Q108762973,Lauriane Darboux,spouse,Q108418519,Mamadi Doumbouya
 Q109375616,Mamoudou Nagnalen Barry,sibling,Q95981966,Siaka Barry
+Q111533988,Abdoul Karim Dioubaté,father,Q111534056,Elhadj Yagouba Dioubaté
+Q111533988,Abdoul Karim Dioubaté,mother,Q111534131,Salématou Touré
 Q1451112,François Lonseny Fall,spouse,Q85853382,Hadja Asmaou Baldé Conté
 Q202582,Lansana Conté,spouse,Q81261160,Henriette Conté
 Q202582,Lansana Conté,spouse,Q85853382,Hadja Asmaou Baldé Conté
