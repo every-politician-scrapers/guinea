@@ -1,0 +1,65 @@
+{
+  "title": "Amadou Damaro Camara",
+  "pageID": 71983758,
+  "categories": [],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amadou Damaro Camara is a politician from Guinea who served as President of the National Assembly of Guinea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the National Assembly of Guinea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amadou Damaro Camara"
+                ]
+              }
+            },
+            {
+              "text": "In April 2022, he was jailed."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guinean politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://books.google.com/books?id=v9o6EAAAQBAJ&newbks=0&printsec=frontcover&pg=PT838&dq=Amadou+Damaro+Camara&hl=en",
+          "title": "The International Directory of Government 2021",
+          "date": "2021-08-04",
+          "publisher": "Routledge",
+          "isbn": "978-1-000-52137-5",
+          "language": "en",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Two former executives charged and jailed for corruption in Guinea",
+          "url": "https://www.africanews.com/2022/04/28/two-former-executives-charged-and-jailed-for-corruption-in-guinea/",
+          "access-date": "2022-10-12",
+          "website": "Africanews",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
