@@ -60,6 +60,16 @@
           "type": "web"
         }
       ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "uncategorized"
+        }
+      ]
     }
   ]
 }
