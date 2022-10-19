@@ -1,7 +1,9 @@
 {
   "title": "Amadou Damaro Camara",
   "pageID": 71983758,
-  "categories": [],
+  "categories": [
+    "Guinean politicians"
+  ],
   "sections": [
     {
       "title": "",
@@ -58,16 +60,6 @@
           "language": "en",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "date": "October 2022",
-          "template": "uncategorized"
         }
       ]
     }
