@@ -2,7 +2,10 @@
   "title": "Amadou Damaro Camara",
   "pageID": 71983758,
   "categories": [
-    "Guinean politicians"
+    "Guinean politicians",
+    "Year of birth missing (living people)",
+    "Living people",
+    "Presidents of the National Assembly (Guinea)"
   ],
   "sections": [
     {
@@ -60,6 +63,15 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "guinea-politician-stub"
         }
       ]
     }
