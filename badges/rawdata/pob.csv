@@ -1,0 +1,115 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q100469635,Ousmane Doré,NormalRank,Q644131,Mamou,true,true,false,,,,
+Q102264364,Ibrahima Khalil Kaba,NormalRank,Q874317,Kankan,true,true,false,,,,
+Q106882714,Aissatou Baldé,NormalRank,Q3733,Conakry,true,true,false,,,,
+Q106961450,Mohamed Diaré,,,,,,false,,,,
+Q106961574,Mamadou Sande,,,,,,false,,,,
+Q106961600,Karamokoba Camara,,,,,,false,,,,
+Q106961788,Madikaba Camara,,,,,,false,,,,
+Q106961880,Cheick Amadou Camara,,,,,,false,,,,
+Q107022236,Mandjou Kaké,,,,,,false,,,,
+Q107049865,Amara Camara,,,,,,false,,,,
+Q107343007,Jean Delacroix Camara,NormalRank,Q106921455,Q106921455,true,true,false,,,,
+Q108125047,Ibrahim Kalil Konaté,NormalRank,Q870191,Kankan Region,true,true,false,,,,
+Q108418519,Mamadi Doumbouya,NormalRank,Q870191,Kankan Region,true,true,false,,,,
+Q108426402,Zainoul Abidine Sanoussi,,,,,,false,,,,
+Q108426403,Amadou Lamarana Bah,,,,,,false,,,,
+Q108498017,M'Mahawa Sylla,,,,,,false,,,,
+Q108498329,Mathurin Bangoura,NormalRank,Q110550055,Taigbé,true,true,true,false,true,false,false
+Q108510258,Amadou Thierno Diallo guinée,,,,,,false,,,,
+Q108762973,Lauriane Darboux,NormalRank,Q844850,Chabeuil,true,true,false,,,,
+Q108881130,Sidiba Koulibaly,,,,,,false,,,,
+Q108881137,Namory Traoré,,,,,,false,,,,
+Q109044655,Aboubacar Sidiki Camara,,,,,,false,,,,
+Q109044662,Bachir Diallo,,,,,,false,,,,
+Q109044723,Abdourahmane Sikhé Camara,,,,,,false,,,,
+Q109044739,Louopou Lamah,,,,,,false,,,,
+Q109252096,Charlotte Daffé,,,,,,false,,,,
+Q109252097,Mamadou Péthè Diallo,,,,,,false,,,,
+Q109252098,Mory Sandan Kouyaté,NormalRank,Q731232,Kouroussa,true,true,false,,,,
+Q109252099,Julien Yombouno,,,,,,false,,,,
+Q109274627,Yaya Sow,,,,,,false,,,,
+Q109275607,Diaka Sidibe,,,,,,false,,,,
+Q109275627,Rose Pola Pricemou,,,,,,false,,,,
+Q109275632,Aicha Nénette Conté,,,,,,false,,,,
+Q109296974,Alpha Bacar Barry,NormalRank,Q3420127,Ratoma,true,true,false,,,,
+Q109296978,Guillaume Hawing,,,,,,false,,,,
+Q109296984,Bernard Goumou,,,,,,false,,,,
+Q109296985,Mory Condé,,,,,,false,,,,
+Q109300701,Alhassane Condé,,,,,,false,,,,
+Q109375616,Mamoudou Nagnalen Barry,,,,,,false,,,,
+Q109378507,Moussa Cissé,,,,,,false,,,,
+Q109378535,Lanciné Condé,,,,,,false,,,,
+Q109378682,Fatoumata Yarie Soumah,,,,,,false,,,,
+Q109412260,Aminata Kaba,,,,,,false,,,,
+Q109413676,Bill de Sam,,,,,,false,,,,
+Q109439926,Ibrahima Abé Sylla,NormalRank,Q997057,Kindia,true,true,false,,,,
+Q109512687,Moussa Magassouba,NormalRank,Q1100303,Siguiri,true,true,false,,,,
+Q110340245,Moriba Alain Koné,,,,,,false,,,,
+Q111209644,Karamoko Diawara,,,,,,false,,,,
+Q111533988,Abdoul Karim Dioubaté,NormalRank,Q985362,Dubréka,true,true,false,,,,
+Q112061372,Naman Keita,,,,,,false,,,,
+Q112977549,Alphonse Charles Wright,NormalRank,Q862611,Boké Region,true,true,false,,,,
+Q113654106,Aly Seydouba Soumah,,,,,,false,,,,
+Q113674890,Ibrahima Sory Bangoura,NormalRank,Q1021470,Coyah,true,true,true,false,false,false,true
+Q114643672,Almamy Kabélé Camara,,,,,,false,,,,
+Q1343963,Lansana Kouyaté,NormalRank,Q6424238,"Koba, Faranah",true,true,true,false,false,false,true
+Q1373451,Eugène Camara,NormalRank,Q1002799,Nzérékoré,true,true,true,false,false,false,true
+Q1451112,François Lonseny Fall,NormalRank,Q874317,Kankan,true,true,true,false,false,false,true
+Q1801573,Lamine Sidimé,NormalRank,Q644131,Mamou,true,true,true,false,false,false,true
+Q18394003,Remy Lamah,,,,,,false,,,,
+Q19940288,Kerfalla Yansané,NormalRank,Q3733,Conakry,true,true,true,false,false,true,true
+Q202582,Lansana Conté,NormalRank,Q985362,Dubréka,true,true,true,false,false,false,true
+Q20560913,Mohamed Keita,,,,,,false,,,,
+Q21855433,Mamady Youla,NormalRank,Q3733,Conakry,true,true,false,,,,
+Q2456485,Bea Diallo,NormalRank,Q3748,Monrovia,true,true,true,false,true,false,false
+Q26214525,Ibrahima Kourouma,NormalRank,Q1006,Guinea,true,false,true,false,false,false,true
+Q2643744,Alexandre Cécé Loua,NormalRank,Q1002799,Nzérékoré,true,true,true,false,false,false,true
+Q2859422,Arafan Camara,,,,,,false,,,,
+Q29292695,Makalé Camara,NormalRank,Q644131,Mamou,true,true,true,false,false,true,true
+Q29956892,Malado Kaba,NormalRank,Q3748,Monrovia,true,true,true,false,false,false,true
+Q314271,Moussa Dadis Camara,NormalRank,Q6434690,"Koure, Guinea",true,false,true,false,false,false,true
+Q323086,Aboubacar Somparé,NormalRank,Q891240,Boké,true,true,true,false,false,true,true
+Q323086,Aboubacar Somparé,NormalRank,Q891238,Boké Prefecture,true,true,true,false,false,false,true
+Q324899,Sidya Touré,NormalRank,Q3733,Conakry,true,true,true,false,false,true,true
+Q3284885,Mamady Condé,NormalRank,Q1100303,Siguiri,true,true,true,false,false,false,true
+Q3358505,Ousmane Diallo,NormalRank,Q1020384,LABÉ,true,true,false,,,,
+Q401526,Ahmed Tidiane Souaré,NormalRank,Q1019078,Mali,true,true,true,false,false,false,true
+Q42814067,Mahawa Bangoura,NormalRank,Q3733,Conakry,true,true,false,,,,
+Q4849023,Bakary Fofana,NormalRank,Q4918470,Bissikrima,true,true,false,,,,
+Q527792,Jean-Marie Doré,NormalRank,Q4947626,Bossou,true,true,false,,,,
+Q5285288,Djené Kaba Condé,NormalRank,Q874317,Kankan,true,true,true,false,false,true,true
+Q54366560,Bachir Touré,,,,,,false,,,,
+Q55098131,Mamadi Touré,NormalRank,Q874317,Kankan,true,true,false,,,,
+Q55365526,Koutoubou Moustapha Sano,NormalRank,Q874317,Kankan,true,true,true,false,false,true,true
+Q59582595,Claude Kory Kondiano,NormalRank,Q6428993,Kondiadou,true,true,false,,,,
+Q5984807,Ibrahima Kassory Fofana,NormalRank,Q3077142,Forécariah,true,true,true,false,false,false,true
+Q60965090,Abdoulaye Magassouba,NormalRank,Q1006,Guinea,true,false,true,false,false,false,true
+Q6344570,Abdoul Kabèlè Camara,NormalRank,Q1021470,Coyah,true,true,false,,,,
+Q64063016,Aminata Touré,NormalRank,Q3733,Conakry,true,true,false,,,,
+Q64590528,Mamadi Camara,NormalRank,Q3733,Conakry,true,true,false,,,,
+Q66708545,Mohamed Béavogui,NormalRank,Q7232880,Porédaka,true,true,true,false,false,true,true
+Q718183,Kabiné Komara,NormalRank,Q874317,Kankan,true,true,true,false,false,false,true
+Q718230,Sékouba Konaté,NormalRank,Q3733,Conakry,true,true,true,false,false,false,true
+Q72600317,Abdourahmane Diallo,NormalRank,Q1006,Guinea,true,false,false,,,,
+Q739715,Cellou Dalein Diallo,NormalRank,Q1020384,LABÉ,true,true,true,false,false,false,true
+Q78327479,Bouréma Condé,,,,,,false,,,,
+Q87442540,Nanfadima Magassouba,NormalRank,Q1781312,Koundara Prefecture,true,true,true,false,false,false,true
+Q88863811,Djéné Saran Camara,NormalRank,Q1152900,Kérouané,true,true,false,,,,
+Q90159096,Frédéric Loua,,,,,,false,,,,
+Q90422307,Mariama Camara,,,,,,false,,,,
+Q90561086,Mohamed Lamine Fofana,NormalRank,Q874317,Kankan,true,true,true,false,true,false,false
+Q93271851,Boubacar Biro Diallo,NormalRank,Q644131,Mamou,true,true,false,,,,
+Q93429790,Édouard Nyankoye Lamah,,,,,,false,,,,
+Q94612893,Oyé Lamah Guilavogui,,,,,,false,,,,
+Q94705904,Ismaël Dioubaté,,,,,,false,,,,
+Q96059533,Amadou Damaro Camara,,,,,,false,,,,
+Q96475179,Saïd Oumar Koulibaly,NormalRank,Q3733,Conakry,true,true,false,,,,
+Q96481975,Gabriel Curtis,,,,,,false,,,,
+Q96945598,Roger Patrick Millimono,,,,,,false,,,,
+Q97167078,Diakaria Koulibaly,NormalRank,Q5270492,Dialakoro,true,true,false,,,,
+Q97365655,Mohamed Diané,NormalRank,Q1006,Guinea,true,false,false,,,,
+Q98602747,Djénabou Dramé,NormalRank,Q870191,Kankan Region,true,true,false,,,,
+Q99399482,Oyé Béavogui,NormalRank,Q1002799,Nzérékoré,true,true,false,,,,
+Q4413,Alpha Condé,NormalRank,Q891240,Boké,true,true,true,false,false,false,true
+Q57875,Mohamed Said Fofana,NormalRank,Q3077142,Forécariah,true,true,true,false,false,false,true
