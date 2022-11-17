@@ -35,7 +35,7 @@
         {
           "sentences": [
             {
-              "text": "He is Minister of Infrastructure and Transportation in the government led by Mohamed Béavogui since October 2021.",
+              "text": "He is Minister of Infrastructure and Transportation in the government led by Mohamed Béavogui  from October 2021 to November 17, 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -83,6 +83,9 @@
                 "page": "Mamady Doumbouya"
               }
             ]
+          },
+          "term_end": {
+            "text": "17 November 2022"
           },
           "term_start": {
             "text": "26 October 2021"
@@ -198,7 +201,7 @@
         {
           "sentences": [
             {
-              "text": "He was decreed Minister of Infrastructure and Transportation on October 26, 2021."
+              "text": "He was decreed Minister of Infrastructure and Transportation on October 26, 202 to November 17, 2022."
             }
           ]
         }
@@ -237,6 +240,15 @@
           "url": "https://guineenews.org/gouvernement-de-transition-quatre-ministres-dont-trois-femmes-nommes/",
           "access-date": "2021-10-26",
           "website": "Guinéenews",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Urgent : Le ministre Yaya Sow limogé par Mamadi Doumbouya",
+          "url": "https://www.africaguinee.com/articles/2022/11/16/urgent-le-ministre-yaya-sow-limoge-par-mamadi-doumbouya",
+          "access-date": "2022-11-16",
+          "website": "Africa Guinee {{!}} Actualité sur la Guinée et l'Afrique",
           "language": "fr",
           "template": "citation",
           "type": "web"
