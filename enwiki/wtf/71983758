@@ -3,7 +3,7 @@
   "pageID": 71983758,
   "categories": [
     "Guinean politicians",
-    "Year of birth missing (living people)",
+    "1952 births",
     "Living people",
     "Presidents of the National Assembly (Guinea)"
   ],
@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Amadou Damaro Camara is a politician from Guinea who served as President of the National Assembly of Guinea.",
+              "text": "Amadou Damaro Camara (born 1952 ) is a politician from Guinea who served as President of the National Assembly of Guinea from 2020 to September 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -36,6 +36,13 @@
               "text": "In April 2022, he was jailed."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Amadou_damaro_camara.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Amadou_damaro_camara.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Amadou_damaro_camara.jpg"
         }
       ],
       "templates": [
@@ -61,6 +68,15 @@
           "access-date": "2022-10-12",
           "website": "Africanews",
           "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Guinea",
+          "url": "https://data.ipu.org/content/guinea?chamber_id=13407",
+          "website": "Parline: the IPU’s Open Data Platform",
+          "language": "en",
+          "date": "5 July 2018",
           "template": "citation",
           "type": "web"
         }

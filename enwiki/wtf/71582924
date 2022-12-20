@@ -56,10 +56,6 @@
           "day": "2",
           "df": "y",
           "template": "birth date and age"
-        },
-        {
-          "date": "September 2022",
-          "template": "unclear inline"
         }
       ],
       "infoboxes": [
@@ -104,7 +100,7 @@
             "text": "October 2, 1960"
           },
           "birth_place": {
-            "text": "Abidjan, Guinea",
+            "text": "Abidjan, Ivory Coast",
             "links": [
               {
                 "type": "internal",
@@ -112,7 +108,7 @@
               },
               {
                 "type": "internal",
-                "page": "Guinea"
+                "page": "Ivory Coast"
               }
             ]
           },
