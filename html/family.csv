@@ -1,5 +1,9 @@
 id,name,relationship,relative,relativename
+Q108418519,Mamadi Doumbouya,child,Q115941731,Lansana Doumbouya
+Q108418519,Mamadi Doumbouya,father,Q115941634,Karifala Doumbouya
+Q108418519,Mamadi Doumbouya,mother,Q115941645,Hadja Mandioula Sylla
 Q108418519,Mamadi Doumbouya,spouse,Q108762973,Lauriane Darboux
+Q108762973,Lauriane Darboux,child,Q115941731,Lansana Doumbouya
 Q108762973,Lauriane Darboux,spouse,Q108418519,Mamadi Doumbouya
 Q109375616,Mamoudou Nagnalen Barry,sibling,Q95981966,Siaka Barry
 Q111533988,Abdoul Karim Dioubaté,father,Q111534056,Elhadj Yagouba Dioubaté
