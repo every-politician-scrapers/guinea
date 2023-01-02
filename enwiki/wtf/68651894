@@ -220,11 +220,15 @@
             ]
           },
           "primeminister": {
-            "text": "Mohamed Béavogui (interim)",
+            "text": "Mohamed Béavogui Bernard Goumou",
             "links": [
               {
                 "type": "internal",
                 "page": "Mohamed Béavogui"
+              },
+              {
+                "type": "internal",
+                "page": "Bernard Goumou"
               }
             ]
           }
